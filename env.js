@@ -4,10 +4,12 @@ const APP_HOST = "8.138.45.32"
 const APP_PORT = 9000
 // const DATABASE_HOST = 'localhost'
 const DATABASE_HOST = '8.138.45.32'
+// const DATABASE_PORT = 3308
 const DATABASE_PORT = 3306
 const DATABASE_USER = 'root'
-const DATABASE_PASSWORD = 'Jiasi0410..'
 // const DATABASE_PASSWORD = 'root'
+const DATABASE_PASSWORD = 'Jiasi0410..'
+
 const DATABASE_NAME = 'share-footerball'
 
 const PRIVATE_KEY = fs.readFileSync('./keys/private.pem')
